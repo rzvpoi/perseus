@@ -1,0 +1,3 @@
+[submodule "goflow2"]
+	path = goflow2
+	url = git@github.com:rzvpoi/goflow2.git
